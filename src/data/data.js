@@ -38,7 +38,7 @@ const projectData = [
    {
       title: "Portfolio",
       image: portfolio,
-      liveLink: "https://vinaysharma023.github.io/my-website-v1/",
+      liveLink: "https://vslive.herokuapp.com",
       repoLink: "https://github.com/Drasek-25/Portfolio",
       techUsed: ["React", "Material UI", "Canvas", "Apache"],
       features: [
