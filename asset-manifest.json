@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/my-website-v1/static/css/main.bd2931fc.chunk.css",
+    "main.js": "/my-website-v1/static/js/main.600104e4.chunk.js",
+    "main.js.map": "/my-website-v1/static/js/main.600104e4.chunk.js.map",
+    "runtime-main.js": "/my-website-v1/static/js/runtime-main.05fe30a8.js",
+    "runtime-main.js.map": "/my-website-v1/static/js/runtime-main.05fe30a8.js.map",
+    "static/css/2.d6c2f144.chunk.css": "/my-website-v1/static/css/2.d6c2f144.chunk.css",
+    "static/js/2.e78dbd30.chunk.js": "/my-website-v1/static/js/2.e78dbd30.chunk.js",
+    "static/js/2.e78dbd30.chunk.js.map": "/my-website-v1/static/js/2.e78dbd30.chunk.js.map",
+    "index.html": "/my-website-v1/index.html",
+    "static/css/2.d6c2f144.chunk.css.map": "/my-website-v1/static/css/2.d6c2f144.chunk.css.map",
+    "static/css/main.bd2931fc.chunk.css.map": "/my-website-v1/static/css/main.bd2931fc.chunk.css.map",
+    "static/js/2.e78dbd30.chunk.js.LICENSE.txt": "/my-website-v1/static/js/2.e78dbd30.chunk.js.LICENSE.txt",
+    "static/media/blogApp.bdd4755e.png": "/my-website-v1/static/media/blogApp.bdd4755e.png",
+    "static/media/chatApp.54fdb657.png": "/my-website-v1/static/media/chatApp.54fdb657.png",
+    "static/media/earth.a08c82a6.jpg": "/my-website-v1/static/media/earth.a08c82a6.jpg",
+    "static/media/ecommerce.4c766ea6.png": "/my-website-v1/static/media/ecommerce.4c766ea6.png",
+    "static/media/font-awesome.css": "/my-website-v1/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/ionicons.css": "/my-website-v1/static/media/ionicons.b45d332f.svg",
+    "static/media/male.cadeca2c.png": "/my-website-v1/static/media/male.cadeca2c.png",
+    "static/media/male1.33b5179e.png": "/my-website-v1/static/media/male1.33b5179e.png",
+    "static/media/myImage.d37bb1c9.png": "/my-website-v1/static/media/myImage.d37bb1c9.png",
+    "static/media/portfolio.4023fdd0.png": "/my-website-v1/static/media/portfolio.4023fdd0.png",
+    "static/media/yelpcamp.6804ada3.png": "/my-website-v1/static/media/yelpcamp.6804ada3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05fe30a8.js",
+    "static/css/2.d6c2f144.chunk.css",
+    "static/js/2.e78dbd30.chunk.js",
+    "static/css/main.bd2931fc.chunk.css",
+    "static/js/main.600104e4.chunk.js"
+  ]
+}
