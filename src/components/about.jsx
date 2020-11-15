@@ -1,5 +1,4 @@
 import React from "react";
-import myImage from "../img/myImage.png";
 
 class About extends React.Component {
   constructor() {
@@ -44,17 +43,17 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Hi, I am a fourth year engineering student at Delhi Technological University (formerly DCE), India with engineering specialisation in Electronics and Communication Engineering. "
+            "Hi, I am a fourth year engineering student at Delhi Technological University (formerly DCE), India with engineering specialisation in Electronics and Communication. "
         },
         {
           id: "second-p-about",
           content:
-            "I have always taken keen interest in coding and Web Development, and have consequently worked on my skills to build good industry level projects. I have always liked the challenge of learning a new technology, so i have worked with a wide array of technologies given the requirements of the projects. I also like solving challenging problems and have experience in Data Structures & Algorithms and SQL. I also have good understanding of computer fundamentals subjects like Operating Systems, Database Management System, Linux, System Design...."
+            "I have always taken keen interest in coding and Web Development, and therefore have worked on my skills to build good industry level projects. I have always liked the challenge of learning a new technology, so i have worked with a wide array of technologies given the requirements of the projects. I like solving challenging problems and have experience in Data Structures & Algorithms and SQL. I also have good understanding of computer fundamentals subjects like Operating Systems, Database Management System, Linux, System Design etc."
         },
         {
           id: "third-p-about",
           content:
-            "Over the course of my college education I have worked on several projects which helped me build my skills. Some of which are displayed in the work section. All necessary link of the projects such as github repositories ans live links are in the display as well. "
+            "Over the course of my college years I have worked on several projects which helped me build my skills. Some of which are displayed in the work section. All necessary link of the projects such as github repositories and live links are in the display as well. "
         }
       ]
     };
