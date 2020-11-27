@@ -39,7 +39,7 @@ const projectData = [
       title: "Portfolio",
       image: portfolio,
       liveLink: "https://vslive.herokuapp.com",
-      repoLink: "https://github.com/Drasek-25/Portfolio",
+      repoLink: "https://github.com/vinaysharma023/my-website-v1",
       techUsed: ["React", "Material UI", "Canvas", "Apache"],
       features: [
          "Fully Responsive UI",
